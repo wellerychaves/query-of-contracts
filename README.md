@@ -52,9 +52,9 @@
 Na seção "Estabelecer conexão com o banco de dados", atualize as seguintes variáveis de acordo com as suas configurações:
 ```php
   $servername = "localhost";
-  $username = "seu_usuario";
-  $password = "sua_senha";
-  $dbname = "seu_banco_de_dados";
+  $username = "usuario";
+  $password = "senha";
+  $dbname = "banco_de_dados";
 ```
 
 
