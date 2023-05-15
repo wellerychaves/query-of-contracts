@@ -7,7 +7,8 @@ Script PHP para Consulta de Contratos
 
 
 ### Configuração do Banco de Dados
-Crie um banco de dados no MySQL para armazenar as tabelas mencionadas no script. 
+Crie um banco de dados no MySQL para armazenar as tabelas mencionadas no script.
+
 Execute o seguinte comando SQL no banco de dados para criar as tabelas necessárias:
 
 ```sql
