@@ -7,9 +7,8 @@
 
 
 ### Configuração do Banco de Dados
-Crie um banco de dados no MySQL para armazenar as tabelas mencionadas no script.
-
-Execute o seguinte comando SQL no banco de dados para criar as tabelas necessárias:
+- Crie um banco de dados no MySQL para armazenar as tabelas mencionadas no script.
+- Execute o seguinte comando SQL no banco de dados para criar as tabelas necessárias:
 
 ```sql
   -- Tabela Tb_banco
@@ -61,7 +60,7 @@ Na seção "Estabelecer conexão com o banco de dados", atualize as seguintes va
 
 ### Executando o Script PHP
 
-Mova o arquivo PHP para a pasta raiz do seu servidor web.
-No seu navegador web, acesse o arquivo PHP através do URL correspondente ao seu servidor web e ao local onde você salvou o arquivo (por exemplo, http://localhost/consulta_contratos.php).
+- Mova o arquivo PHP para a pasta raiz do seu servidor web.
+- No seu navegador web, acesse o arquivo PHP através do URL correspondente ao seu servidor web e ao local onde você salvou o arquivo (por exemplo, http://localhost/consulta_contratos.php).
 
 O script PHP será executado e você verá a relação de contratos com as informações relacionadas exibidas na página.
