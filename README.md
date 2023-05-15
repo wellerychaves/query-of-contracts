@@ -1,4 +1,4 @@
-Script PHP para Consulta de Contratos
+## Script PHP para Consulta de Contratos
 
 #### Pré-requisitos:
 - Servidor web (por exemplo, Apache) instalado e configurado.
